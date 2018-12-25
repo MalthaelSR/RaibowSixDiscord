@@ -6,7 +6,7 @@
 
 /**/
 .container-1UB9sr {
-    border: 1px solid #09352f;
+    border: 1px solid #b4a77b;
 }
 /* fixes margin at top */
 .typeWindows-1za-n7 {
@@ -57,7 +57,7 @@
 }
 /* connected to voice channel border */
 .container-1UB9sr {
-    border: 1px solid #b4a77b;
+    border: 1px solid #b4a15b;
 }
 /* Search bar background and border */
 .theme-dark .search .search-bar {
@@ -274,14 +274,14 @@
 }
 /* borders */
 #bda-qem button {
-    border-left: 1px solid #09392f;
-    box-shadow: #094036 1px 0 0 0;
+    border-left: 1px solid #b4a15b;
+    box-shadow: #b4a15b 1px 0 0 0;
 }
 /* top bar text color */
 #bda-qem button {
     color: white;
-    border-left: 1px solid #09392f;
-    box-shadow: #094036 1px 0 0 0;
+    border-left: 1px solid #b4a15b;
+    box-shadow: #b4a15b 1px 0 0 0;
 }
 /* selected emoji category color */
 .emojiPicker-3m1S-j .categories-1feg4n .item-16cXuq.selected-39BZ4S {
@@ -511,12 +511,12 @@
 }
 /* X button at settings */
 .theme-dark .closeButton-1tv5uR {
-    border-color: #52a292;
+    border-color: #cb0001;
 }
 .theme-dark .keybind-KpFkfr {
     color: #5dceb7;
 }
-.theme-dark .closeButton-1tv5uR svg[name="Close"] path {fill: #52a292; d: path('M 9.5 3.205 L 8.795 2.5 L 6 5.295 L 3.205 2.5 l -0.705 0.705 L 5.295 6 L 2.5 8.795 l 0.705 0.705 L 6 6.705 L 8.795 9.5 l 0.705 -0.705 L 6.705 6');}
+.theme-dark .closeButton-1tv5uR svg[name="Close"] path {fill: #cb0001; d: path('M 9.5 3.205 L 8.795 2.5 L 6 5.295 L 3.205 2.5 l -0.705 0.705 L 5.295 6 L 2.5 8.795 l 0.705 0.705 L 6 6.705 L 8.795 9.5 l 0.705 -0.705 L 6.705 6');}
 
 /* button rectangle inline */
 .theme-dark .cardPrimaryEditable-3KtE4g[style*="border-color: rgb(114, 137, 218); background-color: rgb(114, 137, 218);"] {
@@ -556,7 +556,7 @@
 }
 .theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC {
     background-color: rgba(180, 167, 123, 0.2);
-    border-color: #096c5a;
+    border-color: #b6a13f;
 }
 /* Overlay notifications boxes at settings */
 .wrapper-3jrx9n {
@@ -632,17 +632,17 @@
 /* # channel color normal and hover */
 .theme-dark .wrapper-3WhCwL {
     background-color: rgba(180, 167, 123, 0.17);
-    color: #50d45b;
+    color: #b6a13f;
 }
 .theme-dark .wrapper-3WhCwL:hover {
     background-color: rgb(191, 170, 77);
-    color: #fff;
+    color: #b6a13f;
 }
 /* Find or start a conversation menu background, button and hover result */
 .theme-dark .quickswitcher-3JagVE {
     background-color: rgba(191, 170, 77, 0.9);
     border: 1px solid rgba(191, 170, 77, 0.1);
-    color: #dcddde;
+    color: #b6a13f;
 }
 .theme-dark .input-2VB9rf {
     background-color: rgba(180, 167, 123, 0.25);
@@ -674,7 +674,7 @@
 
 /* right click people normal card top and below and button */
 .userPopout-3XzG_A {
-    border: 1px solid #093930;
+    border: 1px solid #b6a13f;
 }
 .theme-dark .headerNormal-T_seeN {
     background-color: rgba(191, 170, 77, 0.9);
@@ -719,7 +719,7 @@ https://i.imgur.com/mZuRmBg.gifv
 }
 /* hover mention name color */
 .theme-dark .isMentioned-N-h9aa .mention:hover {
-    color: #2ad640;
+    color: #eed814;
 }
 /* add friend button hover */
 .theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary:hover:not(.selected) {
@@ -728,34 +728,34 @@ https://i.imgur.com/mZuRmBg.gifv
 /* right click menu normal and hover */
 .theme-dark.contextMenu-HLZMGh {
     border: 1px solid rgb(191, 170, 77);
-    background: rgba(1, 28, 29, 0.9);
-    box-shadow: 0 0 1px rgba(1, 28, 29, 0.9), 0 1px 4px rgba(0,0,0,.1);
+    background: rgba(180, 167, 123, 0.9);
+    box-shadow: 0 0 1px rgba(180, 167, 123, 0.9), 0 1px 4px rgba(0,0,0,.1);
 }
 .theme-dark .item-1Yvehc:hover {
-    background: rgba(2, 18, 19, 0.63);
+    background: rgba(180, 167, 123, 0.63);
 }
 /* someones profile background and crap TOP and Bottom part */
 .theme-dark .topSectionNormal-2-vo2m {
     background-color: rgba(191, 170, 77, 0.9);
 }
 .theme-dark .body-3ND3kc {
-    background-color: rgba(1, 28, 29, 0.7);
+    background-color: rgba(180, 167, 123, 0.7);
 }
 .theme-dark .connectedAccount-36nQx7, .theme-dark .userInfoSection-2acyCx+.userInfoSection-2acyCx {
-    border-color: rgb(37, 88, 87);
+    border-color: rgb(180, 167, 123);
 }
 .root-SR8cQa, .tabBarContainer-1s1u-z {
-    border: 1px solid rgb(37, 88, 87);
+    border: 1px solid rgb(180, 167, 123);
 }
 .container-2x5lvQ {
-    border: 1px solid rgb(37, 88, 87);
+    border: 1px solid rgb(180, 167, 123);
 }
 /* RTC connection backgrounds top and bottom */
 .theme-dark .container-2x5lvQ header {
-    background-color: rgba(1, 28, 29, 0.9);
+    background-color: rgba(180, 167, 123, 0.9);
 }
 .theme-dark .container-2x5lvQ section {
-    background-color: rgba(1, 28, 29, 0.7);
+    background-color: rgba(180, 167, 123, 0.7);
 }
 /* Compact settings of asteria */
 .ui-standard-sidebar-view .sidebar-region .sidebar .side-8zPYf6 .item-PXvHYJ,.theme-dark #bd-settings-sidebar .ui-tab-bar-item{line-height:20px}
@@ -764,26 +764,26 @@ https://i.imgur.com/mZuRmBg.gifv
 .ui-standard-sidebar-view .content-column.default {max-width: 90%;padding: 40px 30px 80px;}
 /* theming store */
 .paginationItem-2lUq0s {
-    background: #002725;
+    background: #b4a77b;
 }
 .paginationItem-2lUq0s:after {
-    background: linear-gradient(270deg,transparent 0,#011313)!important;
+    background: linear-gradient(270deg,transparent 0,#b4a77b)!important;
 }
 .carousel-2WxMes, .news-2GDtLJ {
-    background-color: #001c1d;
+    background-color: #b4a77b;
 }
 .newsLink-38Naqi:hover {
-    background-color: #011e21;
+    background-color: #b4a77b;
 }
 .app .header-1RC2Wb:hover {
     background-color: rgb(4, 34, 35);
 }
 .app .guild-1EfMGQ .guildInner-3DSoA4 {
-    background: #011e21;
+    background: #b4a77b;
 }
 .app .itemBackground-1jfD8p {
-    background-color: #011e21;
+    background-color: #b4a77b;
 }
 .app .itemBackground-1jfD8p:before {
-    background: radial-gradient(ellipse at top,rgba(54,57,63,0),#011313),linear-gradient(90deg,#011313 0,rgba(54,57,63,0) 40%,rgba(54,57,63,0) 60%,#011313),linear-gradient(0deg,#011313 0,rgba(54,57,63,0) 25%);
+    background: radial-gradient(ellipse at top,rgba(54,57,63,0),#b4a77b),linear-gradient(90deg,#b4a77b 0,rgba(54,57,63,0) 40%,rgba(54,57,63,0) 60%,#b4a77b),linear-gradient(0deg,#b4a77b 0,rgba(54,57,63,0) 25%);
 }
