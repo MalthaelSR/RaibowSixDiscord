@@ -57,7 +57,7 @@
 }
 /* connected to voice channel border */
 .container-1UB9sr {
-    border: 1px solid #09352f;
+    border: 1px solid #b4a77b;
 }
 /* Search bar background and border */
 .theme-dark .search .search-bar {
@@ -104,13 +104,13 @@
 ::-webkit-scrollbar-thumb {
     background: -webkit-linear-gradient(bottom, rgba(191, 170, 77, 0.2) 0%,rgba(180, 167, 123, 0.2) 100%);
 	/*background: rgba(9, 52, 45, 0.61)!important;*/
-    border: 2px solid #093b30!important;
+    border: 2px solid #b4a77b!important;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
     background: -webkit-linear-gradient(bottom, rgba(191, 170, 77, 0.3) 0%,rgba(180, 167, 123, 0.3) 100%);
-	border: 2px solid #093b30!important;
+	border: 2px solid #b4a77b!important;
 }
 /* track */
 .theme-dark .messagesWrapper-3lZDfY .scroller-wrap ::-webkit-scrollbar-track-piece {
@@ -430,7 +430,7 @@
 }
 /* my account opened */
 .theme-dark .input-cIJ7To {
-    border-color: rgb(9, 108, 90);
+    border-color: rgb(180, 167, 123);
 }
 .theme-dark .input-cIJ7To:focus, .theme-dark .input-cIJ7To.focused-1mmYsC {
     border-color: #15ccaa;
@@ -543,7 +543,7 @@
 }
 /* border and background on options that have menus at settings */
 .Select--single>.Select-control .Select-value, .Select-placeholder {
-    background-color: rgba(1, 28, 29, 0.7);
+    background-color: rgba(180, 167, 123, 0.7);
     border: 1px solid rgba(0, 0, 0, 0.3);
 }
 /* unable to touch buttons at settings */
@@ -555,7 +555,7 @@
     background-color: rgba(0,0,0,0);
 }
 .theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC {
-    background-color: rgba(1, 105, 66, 0.2);
+    background-color: rgba(180, 167, 123, 0.2);
     border-color: #096c5a;
 }
 /* Overlay notifications boxes at settings */
@@ -590,7 +590,7 @@
 /* boxes BD */
 .bda-slist li {
     background: rgba(180, 167, 123, 0.35);
-    border: 1px solid rgba(98, 214, 210, 0.1);
+    border: 1px solid rgba(180, 167, 123, 0.1);
 }
 /* links colors */
 .bda-slist .bda-footer a, .anchor-3Z-8Bb, .theme-dark .markup-2BOw-j a, .theme-dark .embedTitleLink-1Zla9e, .theme-dark .topic-2QX7LI a {
@@ -603,13 +603,13 @@
 }
 /* hover keybind background */
 .theme-dark .card-FDVird:before {
-    background-color: rgba180, 167, 123, 0.25);
+    background-color: rgba(180, 167, 123, 0.25);
     border-color: #064b3e;
 }
 /* markdown and blocked messages */
 .theme-dark .markup-2BOw-j pre, .app .messageGroupBlocked-3wrQQX, .app .messageGroupBlocked-3wrQQX.revealed-1_RKsf, .app .messageGroupBlocked-3wrQQX .messageGroupBlockedBtn-1PBBh- {
     background: rgba(180, 167, 123, 0.25);
-    border-color: rgb(33, 99, 83);
+    border-color: rgb(180, 167, 123);
 }
 .app .messageGroupBlocked-3wrQQX .messageGroupBlockedBtn-1PBBh-:hover {
     background: #155047;
@@ -622,7 +622,7 @@
 }
 /* box for when someone posts a link */
 .theme-dark .embedPill-1Zntps {
-    background-color: #edff00!important;
+    background-color: #b4a77b!important;
 }
 .theme-dark .embedInner-1-fpTo {
     background-color: rgba(180, 167, 123, 0.25);
@@ -635,12 +635,12 @@
     color: #50d45b;
 }
 .theme-dark .wrapper-3WhCwL:hover {
-    background-color: rgb(9, 99, 31);
+    background-color: rgb(191, 170, 77);
     color: #fff;
 }
 /* Find or start a conversation menu background, button and hover result */
 .theme-dark .quickswitcher-3JagVE {
-    background-color: rgba(1, 28, 29, 0.9);
+    background-color: rgba(191, 170, 77, 0.9);
     border: 1px solid rgba(191, 170, 77, 0.1);
     color: #dcddde;
 }
@@ -677,13 +677,13 @@
     border: 1px solid #093930;
 }
 .theme-dark .headerNormal-T_seeN {
-    background-color: rgba(1, 28, 29, 0.9);
+    background-color: rgba(191, 170, 77, 0.9);
 }
 .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
-    background-color: rgba(1, 28, 29, 0.7);
+    background-color: rgba(191, 170, 77, 0.7);
 }
 .theme-dark .quickMessage-1yeL4E {
-    background-color: rgba(1, 28, 29, 0.5);
+    background-color: rgba(191, 170, 77, 0.5);
     border-color: #093930;
 }
 /* playing a game card */
@@ -723,11 +723,11 @@ https://i.imgur.com/mZuRmBg.gifv
 }
 /* add friend button hover */
 .theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary:hover:not(.selected) {
-    background-color: rgba(41, 138, 27, 0.5);
+    background-color: rgba(191, 170, 77, 0.5);
 }
 /* right click menu normal and hover */
 .theme-dark.contextMenu-HLZMGh {
-    border: 1px solid rgb(37, 88, 87);
+    border: 1px solid rgb(191, 170, 77);
     background: rgba(1, 28, 29, 0.9);
     box-shadow: 0 0 1px rgba(1, 28, 29, 0.9), 0 1px 4px rgba(0,0,0,.1);
 }
@@ -736,7 +736,7 @@ https://i.imgur.com/mZuRmBg.gifv
 }
 /* someones profile background and crap TOP and Bottom part */
 .theme-dark .topSectionNormal-2-vo2m {
-    background-color: rgba(1, 28, 29, 0.9);
+    background-color: rgba(191, 170, 77, 0.9);
 }
 .theme-dark .body-3ND3kc {
     background-color: rgba(1, 28, 29, 0.7);
