@@ -302,20 +302,20 @@
 
 /* warning of new messages */
 .newMessagesBar-mujexs {
-	background: -webkit-linear-gradient(left, rgba(98, 214, 210, 0.2) 0%,rgba(61, 255, 35, 0.2) 100%);
+	background: -webkit-linear-gradient(left, rgba(191, 170, 77, 0.2) 0%,rgba(61, 255, 35, 0.2) 100%);
     background-color: rgba(0,0,0,0);
-    border: 1px solid rgba(98, 214, 210, 0.1)
+    border: 1px solid rgba(191, 170, 77, 0.1)
 }
 /* viewing old messages warning */
 .theme-dark .jumpToPresentBar-9P20AM {
-    background: -webkit-linear-gradient(left, rgba(98, 214, 210, 0.2) 0%,rgba(61, 255, 35, 0.2) 100%);
+    background: -webkit-linear-gradient(left, rgba(191, 170, 77, 0.2) 0%,rgba(61, 255, 35, 0.2) 100%);
     background-color: rgba(0,0,0,0);
-    border: 1px solid rgba(98, 214, 210, 0.1)
+    border: 1px solid rgba(191, 170, 77, 0.1)
 }
 /* load more messages */
 .theme-dark .hasMore-3e72_v button {
-    background: -webkit-linear-gradient(left, rgba(98, 214, 210, 0.2) 0%,rgba(61, 255, 35, 0.2) 100%);
-    border: 1px solid rgba(98, 214, 210, 0.1)
+    background: -webkit-linear-gradient(left, rgba(191, 170, 77, 0.2) 0%,rgba(61, 255, 35, 0.2) 100%);
+    border: 1px solid rgba(191, 170, 77, 0.1)
 }
 .hasMore-3e72_v button {
 	color: #b9afaf;
@@ -344,14 +344,14 @@
 
 /* activity page */
 .carousel-JbsNzL {
-    background: -webkit-linear-gradient(bottom, rgba(98, 214, 210, 0.3) 0%,rgba(61, 255, 35, 0.3) 100%);
+    background: -webkit-linear-gradient(bottom, rgba(191, 170, 77, 0.3) 0%,rgba(61, 255, 35, 0.3) 100%);
     background-color: rgba(0,0,0,0);
 }
 .article-3kb3qm {
 	background: transparent;
 }
 .paginationItem-3-MBTL:after {
-    background: -webkit-linear-gradient(right, rgba(98, 214, 210, 0.4) 0%,rgba(61, 255, 35, 0.05) 100%);
+    background: -webkit-linear-gradient(right, rgba(191, 170, 77, 0.4) 0%,rgba(61, 255, 35, 0.05) 100%);
 }
 .theme-dark .header-1RC2Wb {
     background-color: rgba(1, 28, 29, 0.9);
@@ -364,12 +364,12 @@
 }
 /* selected button home and hover */
 .selectedLink-3dsNZ6 {
-    background: -webkit-linear-gradient(left, rgba(98, 214, 210, 0.2) 0%,rgba(61, 255, 35, 0.2) 100%);
-    border: 1px solid rgba(98, 214, 210, 0.2);
+    background: -webkit-linear-gradient(left, rgba(191, 170, 77, 0.2) 0%,rgba(61, 255, 35, 0.2) 100%);
+    border: 1px solid rgba(191, 170, 77, 0.2);
 }
 .private-channels .channel:hover a {
-	background: -webkit-linear-gradient(left, rgba(98, 214, 210, 0.2) 0%,rgba(61, 255, 35, 0.1) 100%);
-	border: 1px solid rgba(98, 214, 210, 0.1);
+	background: -webkit-linear-gradient(left, rgba(191, 170, 77, 0.2) 0%,rgba(61, 255, 35, 0.1) 100%);
+	border: 1px solid rgba(191, 170, 77, 0.1);
 }
 
 /* attach button normal and hover */
@@ -412,21 +412,21 @@
 
 /* settings buttons at the side selected and hover */
 .side-8zPYf6 .itemSelected-1qLhcL, .app #bd-settings-sidebar .ui-tab-bar-item.selected, .channel-2QD9_O.selected-1HYmZZ a {
-    background: -webkit-linear-gradient(left, rgba(98, 214, 210, 0.2) 0%,rgba(61, 255, 35, 0.2) 100%);
-	border: 1px solid rgba(98, 214, 210, 0.2);
+    background: -webkit-linear-gradient(left, rgba(191, 170, 77, 0.2) 0%,rgba(61, 255, 35, 0.2) 100%);
+	border: 1px solid rgba(191, 170, 77, 0.2);
 }
 .theme-dark .side-8zPYf6 .itemDefault-3Jdr52:hover, .theme-dark .side-8zPYf6 .itemHover-EnbcjT:hover, #bd-settings-sidebar .ui-tab-bar-item:hover, .channel-2QD9_O:hover a {
-    background: -webkit-linear-gradient(left, rgba(98, 214, 210, 0.2) 0%,rgba(61, 255, 35, 0.1) 100%);
-	border: 1px solid rgba(98, 214, 210, 0.1);
+    background: -webkit-linear-gradient(left, rgba(191, 170, 77, 0.2) 0%,rgba(61, 255, 35, 0.1) 100%);
+	border: 1px solid rgba(191, 170, 77, 0.1);
 }
 /* my account box unopened */
 .theme-dark .cardPrimary-1Hv-to {
     background: rgba(0, 79, 46, 0.25);
-    border-color: rgba(98, 214, 210, 0.1);
+    border-color: rgba(191, 170, 77, 0.1);
 }
 .theme-dark .cardPrimaryEditable-3KtE4g {
     background: rgba(0, 79, 46, 0.25);
-    border-color: rgba(98, 214, 210, 0.1);
+    border-color: rgba(191, 170, 77, 0.1);
 }
 /* my account opened */
 .theme-dark .input-cIJ7To {
@@ -626,7 +626,7 @@
 }
 .theme-dark .embedInner-1-fpTo {
     background-color: rgba(0, 79, 46, 0.25);
-    border-color: rgba(98, 214, 210, 0.1);
+    border-color: rgba(191, 170, 77, 0.1);
 }
 
 /* # channel color normal and hover */
@@ -641,12 +641,12 @@
 /* Find or start a conversation menu background, button and hover result */
 .theme-dark .quickswitcher-3JagVE {
     background-color: rgba(1, 28, 29, 0.9);
-    border: 1px solid rgba(98, 214, 210, 0.1);
+    border: 1px solid rgba(191, 170, 77, 0.1);
     color: #dcddde;
 }
 .theme-dark .input-2VB9rf {
     background-color: rgba(0, 79, 46, 0.25);
-    border: 1px solid rgba(98, 214, 210, 0.1);
+    border: 1px solid rgba(191, 170, 77, 0.1);
 }
 .theme-dark .resultFocused-3aIoYe {
     background-color: rgba(13, 86, 51, 0.3);
@@ -688,16 +688,16 @@
 }
 /* playing a game card */
 .headerPlaying-j0WQBV {
-    background: -webkit-linear-gradient(left, rgba(98, 214, 210, 0.5) 0%,rgba(61, 255, 35, 0.5) 100%);
+    background: -webkit-linear-gradient(left, rgba(191, 170, 77, 0.5) 0%,rgba(61, 255, 35, 0.5) 100%);
 }
 /* playing spotify card */
 .headerSpotify-zpWxgT {
-    background: -webkit-linear-gradient(left, rgba(98, 214, 210, 0.5) 0%,rgba(61, 255, 35, 0.5) 100%);
+    background: -webkit-linear-gradient(left, rgba(191, 170, 77, 0.5) 0%,rgba(61, 255, 35, 0.5) 100%);
 }
 /* Attachment */
 .theme-dark .attachment-33OFj0 {
     background-color: rgba(0, 79, 46, 0.25);
-    border-color: rgba(98, 214, 210, 0.1);
+    border-color: rgba(191, 170, 77, 0.1);
 }
 https://i.imgur.com/mZuRmBg.gifv
 /* spinning when loading new messages */
